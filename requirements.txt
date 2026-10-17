@@ -1,0 +1,12 @@
+# Core analysis
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+
+# Notebook environment
+jupyterlab>=4.0
+nbformat>=5.9
+ipykernel>=6.25
+
+# Verified with:
+#   Python 3.14.6, pandas 3.0.3, numpy, matplotlib 3.11.0
